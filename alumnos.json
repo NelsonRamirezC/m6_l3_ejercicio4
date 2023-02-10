@@ -1,0 +1,20 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Pedro Perez Perales",
+            "institucion": "DUOC UC"
+        },
+        {
+            "nombre": "Marcela Mancilla",
+            "institucion": "U de Chile"
+        },
+        {
+            "nombre": "Carlos Perez",
+            "institucion": "IPP"
+        },
+        {
+            "nombre": "Francisco Soto",
+            "institucion": "INACAP"
+        }
+    ]
+}
